@@ -7,7 +7,7 @@ Ransom Note(s):
 read_it.txt
 Wallpaper
 ```
-![asjsvomag](https://github.com/user-attachments/assets/c45b4ae0-6fe1-4e92-a380-30dfd0a7dba8)
+![Image](https://github.com/user-attachments/assets/c4da76ba-e0b0-4283-b99f-cc4233d9a233)
 ```
 First of all, sorry. It's just business. 
 
@@ -21,7 +21,7 @@ Do not reset or shutdown - files may be damaged.
 Do not rename or move encrypted files - they may be lost forever.
 Do not try to delete readme files - files may be damaged.
 
-Please send $150k in Bitcoin to the following wallet: bc1qp94vpfjgm6z7fvcsa43cymjpyytweqjju9u7dp
+Please send $200k in Bitcoin to the following wallet: bc1qp94vpfjgm6z7fvcsa43cymjpyytweqjju9u7dp
 
 If you do not own Bitcoin yet, we suggest a quick Google search. 
 
